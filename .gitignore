@@ -1,0 +1,4 @@
+# Excel lock files
+~$*.xlsx
+# Windows
+Thumbs.db
